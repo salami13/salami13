@@ -1,6 +1,6 @@
 - 👋 Hi, I’m emmanuel
-- 👀 I’m interested in ...ai, ml and data science
-- 🌱 I’m currently learning ...something new
+- 👀 I’m interested in ai, ml and data science
+- 🌱 I’m currently learning something new
 - 📫 How to reach me ... soon
 
 <!---
